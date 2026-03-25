@@ -52,7 +52,7 @@ The primary objective of this project is to:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](./SalesPerformanceAnalysisDashboard.png)
 
 > *(Make sure your image file is named `dashboard.png` or update the path accordingly.)*
 
